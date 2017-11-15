@@ -1,0 +1,7 @@
+1 = C:\Users\腑玪花\Desktop\python_st
+2 = C:\Users\腑玪花\AppData\Local\Programs\Python\Python36-32\python36.zip
+3 = C:\Users\腑玪花\AppData\Local\Programs\Python\Python36-32\DLLs
+4 = C:\Users\腑玪花\AppData\Local\Programs\Python\Python36-32\lib
+5 = C:\Users\腑玪花\AppData\Local\Programs\Python\Python36-32
+6 = C:\Users\腑玪花\AppData\Local\Programs\Python\Python36-32\lib\site-packages
+7 = D:\Program\test
