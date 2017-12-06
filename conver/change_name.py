@@ -93,7 +93,7 @@ def YYDM_11FANS(path,fn):
 		print(newname,'ok')
  
 if __name__ == '__main__' :
-	path = 'D:/Program/change' # 這是需要轉換名字的資料夾
+	path = 'D:/change' # 這是需要轉換名字的資料夾
 	#configPrint_2(path)
 	#conver_2(path)
 	change_mp4_name(path)
